@@ -1,0 +1,8 @@
+# Password Cracker Project Dependencies
+# =====================================
+
+# Hashing and Cryptography
+bcrypt>=4.0.0
+
+# Rich Console Output (BetterRich)
+rich>=13.7.0
